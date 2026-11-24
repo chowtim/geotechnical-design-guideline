@@ -1,0 +1,10 @@
+﻿feature: jump-bar
+entry: jump-els
+action: click the link named ELS with data-procedure=els
+url: http://127.0.0.1:4174/#els
+hash: #els
+heading: 2. Design of Excavation and Lateral Support (ELS) Works
+headingTop: 68
+barBottom: 68
+headingClear: true
+current: ELS
